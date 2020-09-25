@@ -1,0 +1,92 @@
+#wrapper {
+	width: 1300px;
+	margin: 10px auto;
+}
+
+#left {
+	width: 300px;
+	float: left;
+}
+
+#footer {
+    	margin-left: 300px;
+}
+
+#content {
+	margin-left: 300px;
+    height: 650px;
+}
+
+#header, #content, #left, #right, #footer {
+	outline: 0px solid red;
+}
+
+#table {
+    width: 250px;
+    border: 1px solid #808080;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px black;
+}
+
+#tovar {
+    font: bold 14px Arial;
+    text-align: center;
+    color: white;
+    background-color: crimson;
+    border-radius: 10px; 
+}
+
+#catalog a {
+    text-decoration: none;
+    font: bold 14px Arial;
+    color: black;
+}
+
+#catalog a:hover{
+    color: red;
+}
+
+#sub {
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+#sub_cat a {
+    text-decoration: none;
+    font: 12px Arial;
+    color: black;
+}
+
+#title {
+    font: bold italic 36px Arial;
+    color: red;
+    padding-left: 40px;
+}
+
+#goods {
+    font: 12px Arial;
+    text-align: center;
+}
+
+#zag {
+    font: bold 16px Arial;
+    color: red;
+}
+
+#buy {
+    font: bold 18px Arial;
+}
+
+#buy a {
+    text-decoration: none;
+    color:brown;
+}
+
+#buy a:hover {
+    text-decoration: none;
+    color:red;
+}
+
+#text {
+    font: bold 16px Arial black;
+}

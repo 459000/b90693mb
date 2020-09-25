@@ -1,0 +1,83 @@
+#table {
+    margin-top: 70px;
+}
+
+#title {
+    font:bold 32px Arial; text-align: center; padding-bottom:30px; color: red;
+}
+
+#title a {
+    text-decoration: none; color: red;
+    font:bold 32px Arial; text-align: center; padding-bottom:30px;
+}
+
+
+
+#goods {
+    font:bold 24px Arial; text-align: center;
+}
+
+#buy_user {
+    font:bold 24px Arial;
+}
+
+#buy_user a {
+    text-decoration: none;
+    color: black;
+}
+
+#buy_user a:hover {
+    color: red;
+}
+
+#static {
+    padding-left: 70px;
+}
+
+#sub {
+    font: 16px Arial;
+}
+
+#sub a {
+    text-decoration: none;
+    color: black;
+}
+
+#sub a:hover {
+    color: red;
+}
+
+#image {
+    width: 50px;
+}
+
+#t_cat {
+    text-align: center;
+    font: 20px Arial black;
+}
+
+#t_subcat {
+    padding-left: 50px;
+    font: 18px Arial black;
+}
+
+#tab {
+    font: 16px Arial;
+}
+
+#tab a {
+    text-decoration: none;
+    color: black;   
+}
+
+#tab a:hover {
+    color: red;
+}
+
+#buy {
+    font: bold 16px Arial;
+}
+
+#buy a {
+    text-decoration: none;
+}
